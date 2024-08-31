@@ -30,4 +30,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vysh7/CrackYourPlacement/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vysh7/CrackYourPlacement/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vysh7/CrackYourPlacement/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vysh7/CrackYourPlacement/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vysh7/CrackYourPlacement/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
