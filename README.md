@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vysh7/CrackYourPlacement/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/vysh7/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/vysh7/CrackYourPlacement/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -38,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vysh7/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/vysh7/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vysh7/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vysh7/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/vysh7/CrackYourPlacement/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
