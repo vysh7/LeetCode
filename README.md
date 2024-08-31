@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vysh7/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/vysh7/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vysh7/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/vysh7/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vysh7/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vysh7/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/vysh7/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/vysh7/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
