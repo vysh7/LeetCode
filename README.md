@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vysh7/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/vysh7/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vysh7/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vysh7/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/vysh7/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vysh7/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vysh7/CrackYourPlacement/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/vysh7/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/vysh7/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vysh7/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vysh7/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/vysh7/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vysh7/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
@@ -84,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/vysh7/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
