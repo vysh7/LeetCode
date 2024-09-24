@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vysh7/CrackYourPlacement/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/vysh7/CrackYourPlacement/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vysh7/CrackYourPlacement/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/vysh7/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vysh7/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/vysh7/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/vysh7/CrackYourPlacement/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/vysh7/CrackYourPlacement/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vysh7/CrackYourPlacement/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vysh7/CrackYourPlacement/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
