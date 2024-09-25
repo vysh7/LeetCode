@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vysh7/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/vysh7/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/vysh7/CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vysh7/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vysh7/CrackYourPlacement/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/vysh7/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vysh7/CrackYourPlacement/tree/master/0231-power-of-two) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
