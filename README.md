@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/vysh7/CrackYourPlacement/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/vysh7/CrackYourPlacement/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vysh7/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vysh7/CrackYourPlacement/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vysh7/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vysh7/CrackYourPlacement/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/vysh7/CrackYourPlacement/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/vysh7/CrackYourPlacement/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vysh7/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vysh7/CrackYourPlacement/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/vysh7/CrackYourPlacement/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/vysh7/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vysh7/CrackYourPlacement/tree/master/0540-single-element-in-a-sorted-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vysh7/CrackYourPlacement/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
