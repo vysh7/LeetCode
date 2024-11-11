@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vysh7/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0541-reverse-string-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vysh7/CrackYourPlacement/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0345-reverse-vowels-of-a-string) |
+| [0541-reverse-string-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Bit Manipulation
 |  |
