@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/vysh7/CrackYourPlacement/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/vysh7/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vysh7/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/vysh7/CrackYourPlacement/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vysh7/CrackYourPlacement/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vysh7/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0621-task-scheduler](https://github.com/vysh7/CrackYourPlacement/tree/master/0621-task-scheduler) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/vysh7/CrackYourPlacement/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/vysh7/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/vysh7/CrackYourPlacement/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/vysh7/CrackYourPlacement/tree/master/0621-task-scheduler) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/vysh7/CrackYourPlacement/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0680-valid-palindrome-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/vysh7/CrackYourPlacement/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## Database
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/vysh7/CrackYourPlacement/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/vysh7/CrackYourPlacement/tree/master/0621-task-scheduler) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/vysh7/CrackYourPlacement/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Counting Sort
 |  |
 | ------- |
