@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0541-reverse-string-ii) |
+| [0678-valid-parenthesis-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Bit Manipulation
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/vysh7/CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/vysh7/CrackYourPlacement/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0670-maximum-swap](https://github.com/vysh7/CrackYourPlacement/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/vysh7/CrackYourPlacement/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## Database
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vysh7/CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/vysh7/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vysh7/CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/vysh7/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
