@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vysh7/CrackYourPlacement/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/vysh7/CrackYourPlacement/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vysh7/CrackYourPlacement/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/vysh7/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vysh7/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0400-nth-digit](https://github.com/vysh7/CrackYourPlacement/tree/master/0400-nth-digit) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vysh7/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vysh7/CrackYourPlacement/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/vysh7/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/vysh7/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vysh7/CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
@@ -225,5 +227,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vysh7/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/vysh7/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
