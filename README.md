@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/vysh7/CrackYourPlacement/tree/master/0400-nth-digit) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vysh7/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/vysh7/CrackYourPlacement/tree/master/0670-maximum-swap) |
+| [1013-fibonacci-number](https://github.com/vysh7/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/vysh7/CrackYourPlacement/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## String
 |  |
@@ -182,10 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/vysh7/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vysh7/CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
+| [1013-fibonacci-number](https://github.com/vysh7/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vysh7/CrackYourPlacement/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/vysh7/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## String Matching
 |  |
 | ------- |
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vysh7/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
