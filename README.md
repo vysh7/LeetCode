@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vysh7/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vysh7/CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/vysh7/CrackYourPlacement/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0797-rabbits-in-forest](https://github.com/vysh7/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vysh7/CrackYourPlacement/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0621-task-scheduler](https://github.com/vysh7/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/vysh7/CrackYourPlacement/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0797-rabbits-in-forest](https://github.com/vysh7/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/vysh7/CrackYourPlacement/tree/master/0400-nth-digit) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vysh7/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/vysh7/CrackYourPlacement/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/vysh7/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/vysh7/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/vysh7/CrackYourPlacement/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## String
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/vysh7/CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/vysh7/CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0797-rabbits-in-forest](https://github.com/vysh7/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/vysh7/CrackYourPlacement/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## Database
 |  |
