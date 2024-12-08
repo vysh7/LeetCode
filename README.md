@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vysh7/CrackYourPlacement/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vysh7/CrackYourPlacement/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/vysh7/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/vysh7/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/vysh7/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vysh7/CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/vysh7/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vysh7/CrackYourPlacement/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vysh7/CrackYourPlacement/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/vysh7/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/vysh7/CrackYourPlacement/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vysh7/CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/vysh7/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vysh7/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/vysh7/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
@@ -284,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/vysh7/CrackYourPlacement/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vysh7/CrackYourPlacement/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vysh7/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vysh7/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
