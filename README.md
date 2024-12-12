@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vysh7/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/vysh7/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vysh7/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/vysh7/CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vysh7/CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/vysh7/CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vysh7/CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vysh7/CrackYourPlacement/tree/master/0067-add-binary) |
+| [0289-game-of-life](https://github.com/vysh7/CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0874-backspace-string-compare](https://github.com/vysh7/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## Greedy
 |  |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vysh7/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/vysh7/CrackYourPlacement/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
